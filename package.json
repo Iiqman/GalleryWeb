@@ -1,0 +1,13 @@
+{
+  "extensions": [".jsx", ".js"],
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.787.0",
+    "glob": "^11.0.1",
+    "react-router-dom": "^7.5.0",
+    "rimraf": "^6.0.1",
+    "tar": "^7.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
